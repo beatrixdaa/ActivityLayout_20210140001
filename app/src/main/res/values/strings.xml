@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nama">Ari</string>
+    <string name="no_hp">098767545878</string>
+    <string name="namaa">Sapi Lucu</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="textview">Scroll More</string>
+    <string name="textview2">phone number</string>
+    <string name="phone">enter your phone number</string>
+    <string name="adress1">address</string>
+    <string name="address2">enter your address</string>
+    <string name="login1">login</string>
+    <string name="learn">learn more</string>
+    <string name="sapii">sapi</string>
+
+
+</resources>
